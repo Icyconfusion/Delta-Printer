@@ -116,9 +116,27 @@ The PCB is organised with drivers up the top. Power on the left edge, with the b
 <img width="914" height="726" alt="image" src="https://github.com/user-attachments/assets/97f7c60c-6882-4dc3-9d94-f7a7b9ccf789" />
 
 ## Firmware
+The firmware used is Marlin firmware. The firmware has been configured to match a delta printer with delta kinematics. Additionally, it has been configured for my custom motherboard by creating a unique pin mapping for the printer. The config and pin map files are in the firmware folder of the repo, along with the complete marlin .zip build folder.
 
 ## BOM
 ### Printed Parts
+
+|Part| Quantity| Image|
+|---|---|---|
+|Bottom bracket | 3 | |
+|Top bracket | 3 | |
+|Bottom cover | 3 | |
+|Bed support | 3 | |
+|Motor mount | 3 | |
+|Carriage | 3 | |
+|PSU compartment | 3 | |
+|Base cover LCD | 2 | |
+|Base cover | 2 | |
+|Base cover PSU | 1 | |
+|LCD front cover | 1 | |
+|Extruder | 1 | |
+|Drive arm | 1 | |
+|Limit switch bracket | 3 | |
 
 ### Parts already owned
 
