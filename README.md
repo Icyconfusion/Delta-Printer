@@ -1,5 +1,6 @@
 # Delta-Printer
 An STM32 based delta style 3D printer running Marlin firmware. The printer features a custom PCB motherboard, LCD, and 220mm diameter x roughly 200mm build volume. I designed this project to expand on my understanding of 3D printer hardware and mechanics through non-standard motion.
+
 <img width="493" height="738" alt="image" src="https://github.com/user-attachments/assets/70b3c7ad-475e-4977-a918-f0f8b69fc65e" />
 
 ## Assembly
