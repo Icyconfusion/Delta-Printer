@@ -115,6 +115,8 @@ The PCB is organised with drivers up the top. Power on the left edge, with the b
 <img width="675" height="551" alt="image" src="https://github.com/user-attachments/assets/c6a96187-24b6-4ece-83d9-1a35f58d3471" />
 <img width="914" height="726" alt="image" src="https://github.com/user-attachments/assets/97f7c60c-6882-4dc3-9d94-f7a7b9ccf789" />
 
+## Firmware
+
 ## BOM
 ### Printed Parts
 
