@@ -139,7 +139,19 @@ The firmware used is Marlin firmware. The firmware has been configured to match 
 |Limit switch bracket | 3 | <img width="767" height="620" alt="image" src="https://github.com/user-attachments/assets/d86e05eb-cf13-42f9-8fdb-cde43874033e" /> |
 
 ### Parts already owned
-
+| Part | Quantity | Description |
+|--|--|--|
+|T slot | 6 | 500mm 2020 T slot profiles |
+|Linear rail | 3 | MGN12H 400mm linear rail and carriage |
+|Motor | 4 | NEMA 17 stepper motor |
+| Hotend | 1 | CR6 SE hotend |
+| Fan | 2 | 4010 24v blower fan |
+| GT2 bearing | 3 | 5mm bore gt2 idler bearing |
+| GT2 gear | 3 | GT2 20T gear |
+|LCD | 1 | BTT mini 12864 V2.0 LCD |
+| Limit switch | 3 | Standard limit switch |
+| T nut | - | M5 and M3 T nuts |
+| PSU | 1 | 24V 600w PSU |
 
 ### Purchased parts
 |Product            |Quantity|Description                                                                                                                  |Total cost (USD)|Supplier  |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
