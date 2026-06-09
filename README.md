@@ -123,20 +123,20 @@ The firmware used is Marlin firmware. The firmware has been configured to match 
 
 |Part| Quantity| Image|
 |---|---|---|
-|Bottom bracket | 3 | |
-|Top bracket | 3 | |
-|Bottom cover | 3 | |
-|Bed support | 3 | |
-|Motor mount | 3 | |
-|Carriage | 3 | |
-|PSU compartment | 3 | |
-|Base cover LCD | 2 | |
-|Base cover | 2 | |
-|Base cover PSU | 1 | |
-|LCD front cover | 1 | |
-|Extruder | 1 | |
-|Drive arm | 1 | |
-|Limit switch bracket | 3 | |
+|Bottom bracket | 3 | <img width="537" height="745" alt="image" src="https://github.com/user-attachments/assets/4c552cd9-b011-46e6-a288-50c8fb20d9fd" /> |
+|Top bracket | 3 | <img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/3e6c3e44-33ce-4cc5-8464-ca904b0fffb8" /> |
+|Bottom cover | 3 | <img width="1052" height="616" alt="image" src="https://github.com/user-attachments/assets/8c99b1db-3d00-4988-8196-a90c9a61a3c8" /> |
+|Bed support | 3 | <img width="1006" height="746" alt="image" src="https://github.com/user-attachments/assets/790f1d44-c058-49b4-b5ad-1e9e29f60405" /> |
+|Motor mount | 3 | <img width="720" height="437" alt="image" src="https://github.com/user-attachments/assets/15b63595-6902-4436-bf19-925444687085" /> |
+|Carriage | 3 | <img width="779" height="603" alt="image" src="https://github.com/user-attachments/assets/402de6a3-e28c-45db-9a6b-470e6d74452c" /> |
+|PSU compartment | 3 | <img width="563" height="650" alt="image" src="https://github.com/user-attachments/assets/7a2361c4-f9d9-4499-b451-58d5aea1451f" /> |
+|Base cover LCD | 2 | <img width="861" height="695" alt="image" src="https://github.com/user-attachments/assets/5c4b51cc-c962-43cd-8f03-91f6787f0d44" /> |
+|Base cover | 2 | <img width="703" height="685" alt="image" src="https://github.com/user-attachments/assets/082bae96-30f4-46cc-a3c7-7b133bb82c46" /> |
+|Base cover PSU | 1 | <img width="571" height="594" alt="image" src="https://github.com/user-attachments/assets/9ad22a6f-c160-46e0-b9ba-7f83a192b89a" /> |
+|LCD front cover | 1 | <img width="716" height="505" alt="image" src="https://github.com/user-attachments/assets/fdfe5290-05f4-4cb9-bdb9-bd188bf71ed6" /> |
+|Extruder | 1 | <img width="722" height="787" alt="image" src="https://github.com/user-attachments/assets/bbf4655e-c985-4482-ab4e-872e906c37c3" /> |
+|Drive arm | 1 | <img width="479" height="781" alt="image" src="https://github.com/user-attachments/assets/c31dcad1-64c7-4b03-8b0b-bf6234ae0487" /> |
+|Limit switch bracket | 3 | <img width="767" height="620" alt="image" src="https://github.com/user-attachments/assets/d86e05eb-cf13-42f9-8fdb-cde43874033e" /> |
 
 ### Parts already owned
 
