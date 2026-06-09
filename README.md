@@ -68,12 +68,14 @@ Base covers are mounted onto one of the other sides.
 
 <img width="1260" height="411" alt="image" src="https://github.com/user-attachments/assets/3fa3f8b3-0410-40be-adfd-3cb729a7ff91" />
 
-The third side holds the PSU. The PSU is held in its compartment, which is mounted to the frame in place. A base cover is mounted next to it.
+The third side holds the PSU. The PSU is held in its compartment, which is mounted to the frame in place. A base cover is mounted next to it. There is a hole in the base cover next to it for power cables to run from to PSU to the wall outlet.
 
 <img width="491" height="465" alt="image" src="https://github.com/user-attachments/assets/5316ddf4-5db2-495c-a37b-3a4de41e38d7" />
 <img width="557" height="261" alt="image" src="https://github.com/user-attachments/assets/d9c7c91a-d74f-4c04-99a8-7c232bb4ab2b" />
 <img width="521" height="510" alt="image" src="https://github.com/user-attachments/assets/cce0fd2a-8419-4bc8-9113-67939633d634" />
 <img width="592" height="390" alt="image" src="https://github.com/user-attachments/assets/77653c7c-3fc4-4c59-bd14-9f75bff6526" />
+<img width="544" height="465" alt="image" src="https://github.com/user-attachments/assets/addbd994-ab08-457d-a851-064e487849a5" />
+
 
 Now the bed can be installed. To do this, printed bed supports are installed on the base. The bed then screws into these. If needed, depending on exact specifications of the bed, the holes to mount the bed can be made larger by printing or drilling.
 
