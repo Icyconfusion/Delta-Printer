@@ -3,6 +3,8 @@ An STM32 based delta style 3D printer running Marlin firmware. The printer featu
 
 <img width="493" height="738" alt="image" src="https://github.com/user-attachments/assets/70b3c7ad-475e-4977-a918-f0f8b69fc65e" />
 
+**Note to reviewer:** My JLCPCB/MC screenshot is inclusive of tax and cheapest shipping option, it went into my "orders" tab despite not being paid for, but that is the total price, and the checkout page. Thank you:)
+
 ## Assembly
 The key assembly ofthe printer is a triangular prism made of 2020 T slot aluminium profiles. Using 3d printed brackets, shorter T slots of lengths 340mm for the top and 290 for the bottom are arranged into triangles. 500mm T slot join these triangles. Two profiles are used for each tower to increase stiffness. The bottom bracket extends the height of the printer without needing extra T slot. Brackets are mounted using T nuts.
 
